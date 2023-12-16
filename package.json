@@ -1,0 +1,25 @@
+{
+  "name": "applitools-playwright-advanced",
+  "version": "1.0.0",
+  "description": "Applitools Playwright with TypeScript Page Object Model",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martin-applitools/applitools-playwright.git"
+  },
+  "author": "Martin Kowalewski",
+  "license": "ISC",
+  "devDependencies": {
+    "@applitools/eyes-playwright": "^1.23.2",
+    "@playwright/test": "^1.40.1"
+  },
+  "bugs": {
+    "url": "https://github.com/martin-applitools/applitools-playwright/issues"
+  },
+  "homepage": "https://github.com/martin-applitools/applitools-playwright#readme"
+
+
+}
